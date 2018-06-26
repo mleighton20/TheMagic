@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="The Magic" max_length="40" name="x_202799_the_magic_the_magic" type="collection"/>
+</database>
